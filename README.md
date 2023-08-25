@@ -1,6 +1,6 @@
 # Hi, I'm Aditya Sahni 👋
 
-Welcome to my GitHub profile! I'm a 1st-year BTech student who is passionate about exploring the world of technology. I am currently pursuing my studies in Computer science, and I am determined to become an expert in this field.
+Welcome to my GitHub profile! I'm a 2st-year BTech student who is passionate about exploring the world of technology. I am currently pursuing my studies in Computer science, and I am determined to become an expert in this field.
 
 In my free time, I love to indulge in various hobbies, such as coding, exploring new technologies, and participating in hackathons. I also enjoy reading tech blogs and watching online courses to enhance my knowledge and skills.
 
