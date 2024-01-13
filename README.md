@@ -9,7 +9,7 @@ My ultimate goal is to develop innovative solutions that can make a positive imp
 ## Skills and Expertise
 
 - Programming languages: I am proficient in C, Python, and have basic knowledge of C++
-- Tools and frameworks:As a 1st-year BTech CS student, I am familiar with a variety of tools and frameworks that are commonly used in the field of computer science,       including:
+- Tools and frameworks:As a 2st-year BTech CS student, I am familiar with a variety of tools and frameworks that are commonly used in the field of computer science,       including:
         1.Integrated Development Environments (IDEs)
         2.Text Editors
         3.Operating Systems
